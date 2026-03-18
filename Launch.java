@@ -94,7 +94,6 @@ public class Launch
 		int third = Three.guess3();
 
 		Compare.compare(number, first, second, third);
-
 	}
 
 
