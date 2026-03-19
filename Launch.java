@@ -40,6 +40,7 @@ class Two
 */
 class Three
 {
+	
 	static int guess3()
 	{
 		System.out.println("Third guess : ");
@@ -84,7 +85,7 @@ class Compare
 public class Launch
 {
 	public static void main(String[] args)
-	
+
 	{
 		System.out.println("Guess the number : ");
 		Scanner scanned = new Scanner(System.in);
