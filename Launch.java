@@ -84,6 +84,7 @@ class Compare
 public class Launch
 {
 	public static void main(String[] args)
+	
 	{
 		System.out.println("Guess the number : ");
 		Scanner scanned = new Scanner(System.in);
