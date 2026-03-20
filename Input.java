@@ -7,5 +7,6 @@ public class Input
         int num = scan.nextInt();
 
         System.out.println(num);
-    }    
+    } 
+       
 }
