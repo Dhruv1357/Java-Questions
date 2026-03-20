@@ -24,6 +24,7 @@ class One
 */
 class Two
 {
+	
 	static int guess2()
 	{
 		System.out.println("Second guess : ");
@@ -40,7 +41,7 @@ class Two
 */
 class Three
 {
-	
+
 	static int guess3()
 	{
 		System.out.println("Third guess : ");
