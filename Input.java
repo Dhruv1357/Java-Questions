@@ -8,5 +8,5 @@ public class Input
 
         System.out.println(num);
     } 
-       
+
 }
