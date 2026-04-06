@@ -18,7 +18,7 @@ public class StaticVariable
 
         System.out.println(s2.value);
         System.out.println(s1.a);
-        // System.out.println(s2.a);
+        System.out.println(s2.a);
 
     }
 }
