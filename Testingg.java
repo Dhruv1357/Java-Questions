@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class Testingg {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         int size;
         System.out.println("Enter the number of students:");
         Scanner scan = new Scanner(System.in);
@@ -30,7 +31,8 @@ public class Testingg {
         Scanner marks4 = new Scanner(System.in);
         marks[4] = marks4.nextInt();
 
-        System.out.println("The marks of the students are: " + marks[0] + " " + marks[1] + " " + marks[2] + " " + marks[3] + " " + marks[4]);
+        System.out.println("The marks of the students are: " + marks[0] + " " + marks[1] + " " + marks[2] + " "
+                + marks[3] + " " + marks[4]);
 
     }
 }
