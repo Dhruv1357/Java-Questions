@@ -27,5 +27,6 @@ public class Test2
         Class ref = e1.getClass();
         
         System.out.println(e2);
+        System.out.println(ref);
     }
 }
