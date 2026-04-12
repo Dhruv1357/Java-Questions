@@ -25,6 +25,7 @@ public class Test2
         e2.name = "EEE";
 
         Class ref = e1.getClass();
+        
         String nameOfClass = e2.getClass().getName();
         
         System.out.println(e2);
