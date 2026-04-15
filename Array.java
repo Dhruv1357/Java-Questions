@@ -8,6 +8,7 @@ public class Array
         int classrooms = scan1.nextInt();
         
         System.out.println("Enter the number of students: ");
+        
         Scanner scan2 = new Scanner(System.in);
         int students = scan2.nextInt();
 
