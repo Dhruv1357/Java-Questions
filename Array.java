@@ -4,11 +4,12 @@ public class Array
     public static void main(String[] args) 
     {
         System.out.println("Enter the number of classrooms: ");
+        
         Scanner scan1 = new Scanner(System.in);
         int classrooms = scan1.nextInt();
         
         System.out.println("Enter the number of students: ");
-        
+
         Scanner scan2 = new Scanner(System.in);
         int students = scan2.nextInt();
 
