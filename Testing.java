@@ -16,7 +16,7 @@ public class Testing
 {
     public static void main(String[] args)
         {
-            
+
             Student s1 = new Student();
             Student s2 = new Student();
 
@@ -25,6 +25,7 @@ public class Testing
             s1.cgpa = 9.0F;
 
             Scanner scan = new Scanner(System.in);
+            
             s2.name = scan.next();
             s2.roll_no = scan.nextLong();
             s2.cgpa = scan.nextFloat();
