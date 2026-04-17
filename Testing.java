@@ -25,12 +25,13 @@ public class Testing
             s1.cgpa = 9.0F;
 
             Scanner scan = new Scanner(System.in);
-            
+
             s2.name = scan.next();
             s2.roll_no = scan.nextLong();
             s2.cgpa = scan.nextFloat();
             
             System.out.println(s1);
+            
             System.out.println(s2);
 
         }
