@@ -7,9 +7,10 @@ public class Testingg {
     {
         int size;
         System.out.println("Enter the number of students:");
-        
+
         Scanner scan = new Scanner(System.in);
         size = scan.nextInt();
+        
         int[] marks = new int[size];
 
         System.out.println("Enter the marks of Student 1: ");
