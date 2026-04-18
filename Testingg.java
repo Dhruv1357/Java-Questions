@@ -6,11 +6,12 @@ public class Testingg {
     public static void main(String[] args) 
     {
         int size;
+        
         System.out.println("Enter the number of students:");
 
         Scanner scan = new Scanner(System.in);
         size = scan.nextInt();
-        
+
         int[] marks = new int[size];
 
         System.out.println("Enter the marks of Student 1: ");
