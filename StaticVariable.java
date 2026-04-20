@@ -2,7 +2,6 @@ class Static
 {
     static int value = 10;
     int a;
-
 }
 public class StaticVariable 
 {
