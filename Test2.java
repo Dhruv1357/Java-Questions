@@ -21,7 +21,7 @@ public class Test2
         e1.salary = 45678;
 
         Employee e2 = new Employee();
-        
+
         e2 = e1;
 
         e2.name = "EEE";
