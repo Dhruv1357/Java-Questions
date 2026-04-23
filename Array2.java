@@ -13,7 +13,6 @@ public class Array2
         System.out.println("Enter the marks of students: ");
         Scanner scan2 = new Scanner(System.in);
 
-        
         for(int i=0;i<classrooms;i++)
         {
             for(int j=0;j<students;j++)
