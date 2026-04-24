@@ -6,6 +6,7 @@ public class Array2
         int students,classrooms;
         System.out.println("Enter the number of students and classrooms: ");
         Scanner scan1 = new Scanner(System.in);
+        
         students = scan1.nextInt();
         classrooms = scan1.nextInt();
         int[][] a = new int[classrooms][students];
