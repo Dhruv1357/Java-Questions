@@ -7,6 +7,7 @@ public class Array4
         int cities,students, classrooms, schools;
         System.out.println("Enter the number of cities, students, classrooms and schools:");
         Scanner scan1 = new Scanner(System.in);
+        
         cities = scan1.nextInt();
         students = scan1.nextInt();
         classrooms = scan1.nextInt();
