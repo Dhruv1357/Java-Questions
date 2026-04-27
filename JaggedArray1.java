@@ -6,6 +6,7 @@ public class JaggedArray1
         int students, classrooms, schools;
         System.out.println("Enter the number of schools:");
         Scanner scan = new Scanner(System.in);
+        
         schools = scan.nextInt();
         int[][][] a = new int[schools][][];
 
