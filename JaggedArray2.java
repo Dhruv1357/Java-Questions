@@ -8,6 +8,7 @@ public class JaggedArray2
         System.out.println("Enter the number of schools:");
 
         Scanner scan = new Scanner(System.in);
+        
         schools = scan.nextInt();
 
         int[][][] a = new int[schools][][];
@@ -26,7 +27,7 @@ public class JaggedArray2
             {
                 System.out.println("Enter the number of students in classroom "+(j+1)+" of school "+(i+1));
                 students = scan.nextInt();
-                
+
                 a[i][j] = new int[students];
             }
         }
