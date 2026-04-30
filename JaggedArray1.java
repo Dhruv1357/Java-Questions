@@ -23,7 +23,7 @@ public class JaggedArray1
             for(int j=0;j< a[i].length ;j++)
             {
                 System.out.println("Enter the number of students in classroom "+(j+1)+" of school "+(i+1));
-                
+
                 students = scan.nextInt();
                 a[i][j] = new int[students];
             }
