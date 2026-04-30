@@ -14,6 +14,7 @@ public class JaggedArray1
         for(int i=0;i<schools;i++)
         {
             System.out.println("Enter the number of classrooms in school "+(i+1));
+            
             classrooms = scan.nextInt();
             a[i] = new int[classrooms][];
         }
