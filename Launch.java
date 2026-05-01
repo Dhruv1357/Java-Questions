@@ -1,6 +1,3 @@
-/**
-*Importing the Scanner class which is stored inside the java.util package.
-*/
 import java.util.Scanner;
 
 /**
@@ -30,7 +27,7 @@ class Two
 	{
 		System.out.println("Second guess : ");
 		Scanner x = new Scanner(System.in);
-		
+
 		int two = x.nextInt();
 		return two;
 
