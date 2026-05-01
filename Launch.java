@@ -11,7 +11,7 @@ class One
 	static int guess1()
 	{
 		System.out.println("First guess : ");
-		
+
 		Scanner x = new Scanner(System.in);
 		int one = x.nextInt();
 		return one;
@@ -30,6 +30,7 @@ class Two
 	{
 		System.out.println("Second guess : ");
 		Scanner x = new Scanner(System.in);
+		
 		int two = x.nextInt();
 		return two;
 
