@@ -27,6 +27,7 @@ class Square extends Shape
         area = length * length;
     }
 }
+
 class Rectangle extends Shape
 {
     float length,breadth;
