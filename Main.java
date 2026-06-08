@@ -15,7 +15,7 @@ abstract class Shape
 class Square extends Shape
 {
     float length;
-    
+
     public void acceptInput()
     {
         Scanner scan = new Scanner(System.in);
@@ -39,6 +39,7 @@ class Rectangle extends Shape
         System.out.println("Please enter the breadth of the rectangle: ");
         breadth = scan.nextFloat();
     }
+    
     public void compute()
     {
         area = length * breadth;
