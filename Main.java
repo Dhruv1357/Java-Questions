@@ -15,6 +15,7 @@ abstract class Shape
 class Square extends Shape
 {
     float length;
+    
     public void acceptInput()
     {
         Scanner scan = new Scanner(System.in);
