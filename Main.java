@@ -34,7 +34,7 @@ class Rectangle extends Shape
     public void acceptInput()
     {
         Scanner scan = new Scanner(System.in);
-        
+
         System.out.println("Please enter the length of the rectangle: ");
         length = scan.nextFloat();
 
