@@ -57,6 +57,7 @@ class Circle extends Shape
         System.out.println("Please enter the radius of the circle: ");
         radius = scan.nextFloat();
     }
+    
     public void compute()
     {
         area = 3.14f * radius * radius;
