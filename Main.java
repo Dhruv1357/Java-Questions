@@ -31,6 +31,7 @@ class Square extends Shape
 class Rectangle extends Shape
 {
     float length,breadth;
+    
     public void acceptInput()
     {
         Scanner scan = new Scanner(System.in);
@@ -51,7 +52,7 @@ class Rectangle extends Shape
 class Circle extends Shape
 {
     float radius;
-    
+
     public void acceptInput()
     {
         Scanner scan = new Scanner(System.in);
