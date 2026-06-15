@@ -5,6 +5,7 @@ abstract class Shape
     float area;
     
     abstract public void acceptInput();
+    
     abstract public void compute();
     public void disp()
     {
@@ -31,7 +32,7 @@ class Square extends Shape
 class Rectangle extends Shape
 {
     float length,breadth;
-    
+
     public void acceptInput()
     {
         Scanner scan = new Scanner(System.in);
