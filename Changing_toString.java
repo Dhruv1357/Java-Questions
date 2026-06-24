@@ -16,4 +16,5 @@ public class Changing_toString
         System.out.println(object);
         
     }
+    
 }
