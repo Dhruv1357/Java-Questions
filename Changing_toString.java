@@ -1,10 +1,10 @@
-    class One
+class One
 {
    public String toString()
     {
         return "Hello how are you?";
     }
-    
+
 }
 
 public class Changing_toString
