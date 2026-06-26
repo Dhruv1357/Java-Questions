@@ -20,11 +20,12 @@ class Student
     {
         return sName;
     }
-    
+
     public Branch getBranch()
     {
         return branch;
     }
+    
 }
 class Branch
 {
