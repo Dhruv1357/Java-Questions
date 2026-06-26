@@ -15,11 +15,12 @@ class Student
     {
         return sId;
     }
-    
+
     public String getSName()
     {
         return sName;
     }
+    
     public Branch getBranch()
     {
         return branch;
