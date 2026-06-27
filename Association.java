@@ -38,6 +38,7 @@ class Branch
         this.bId = bId;
         this.bName = bName;
     }
+    
 }
 
 public class Association 
