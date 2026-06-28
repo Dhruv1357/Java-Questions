@@ -3,6 +3,7 @@ public class Array2
 {
     public static void main(String[] args) 
     {
+        
         int students,classrooms;
         System.out.println("Enter the number of students and classrooms: ");
         Scanner scan1 = new Scanner(System.in);
