@@ -30,6 +30,7 @@ class Student
 
 class Branch
 {
+    
     private String bId;
     private String bName;
 
@@ -38,7 +39,7 @@ class Branch
         this.bId = bId;
         this.bName = bName;
     }
-    
+
 }
 
 public class Association 
