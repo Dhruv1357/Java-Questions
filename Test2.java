@@ -32,8 +32,9 @@ public class Test2
         String nameOfClass = e2.getClass().getName();
         
         System.out.println(e2);
-        
+
         System.out.println(ref);
+        
         System.out.println(nameOfClass);
 
     }
