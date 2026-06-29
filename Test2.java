@@ -18,7 +18,7 @@ public class Test2
         Employee e1 = new Employee();
         
         e1.EmpId = 34558;
-        
+
         e1.salary = 45678;
 
         Employee e2 = new Employee();
@@ -32,6 +32,7 @@ public class Test2
         String nameOfClass = e2.getClass().getName();
         
         System.out.println(e2);
+        
         System.out.println(ref);
         System.out.println(nameOfClass);
 
