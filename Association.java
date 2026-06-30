@@ -7,6 +7,7 @@ class Student
     public Student(Integer sId,String sName,Branch branch)
     {
         this.sId = sId;
+        
         this.sName = sName;
         this.branch = branch;
     }
