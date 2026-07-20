@@ -9,7 +9,6 @@ class Student
         this.sId = sId;
 
         this.sName = sName;
-        
         this.branch = branch;
     }
 
