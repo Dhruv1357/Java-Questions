@@ -15,7 +15,6 @@ class Student
     {
         return sId;
     }
-
     public String getSName()
     {
         return sName;
