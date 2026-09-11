@@ -10,7 +10,7 @@ class Student
         this.sName = sName;
         this.branch = branch;
     }
-    
+
     public Integer getSId()
     {
         return sId;
@@ -19,6 +19,7 @@ class Student
     {
         return sName;
     }
+    
     public Branch getBranch()
     {
         return branch;
