@@ -19,7 +19,7 @@ class Student
     {
         return sName;
     }
-    
+
     public Branch getBranch()
     {
         return branch;
@@ -38,7 +38,6 @@ class Branch
         this.bId = bId;
         this.bName = bName;
     }
-
 }
 
 public class Association 
