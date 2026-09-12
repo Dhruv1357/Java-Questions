@@ -32,7 +32,6 @@ class Branch
     
     private String bId;
     private String bName;
-
     public Branch(String bId,String bName)
     {
         this.bId = bId;
