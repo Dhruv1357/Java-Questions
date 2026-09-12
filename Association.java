@@ -39,7 +39,6 @@ class Branch
         this.bName = bName;
     }
 }
-
 public class Association 
 {
     
