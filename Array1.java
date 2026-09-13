@@ -15,8 +15,7 @@ public class Array1
         System.out.println("Enter the marks of students: ");
         Scanner scan2 = new Scanner(System.in);
         
-        for (int i = 0; i < size; i++) 
-            a[i] = scan2.nextInt();
+        for (int i = 0; i < size; i++) a[i] = scan2.nextInt();
 
         for(int i=0;i<size;i++)
         {
