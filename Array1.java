@@ -3,12 +3,11 @@ import java.util.Scanner;
 
 public class Array1 
 {
-
     public static void main(String[] args) 
     {
         System.out.println("Enter the number of students: ");
         Scanner scan = new Scanner(System.in);
-        
+
         int size = scan.nextInt();
 
         int[] a = new int[size];
