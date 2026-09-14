@@ -8,6 +8,7 @@ public class Array1
     {
         System.out.println("Enter the number of students: ");
         Scanner scan = new Scanner(System.in);
+        
         int size = scan.nextInt();
 
         int[] a = new int[size];
