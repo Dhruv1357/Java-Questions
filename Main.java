@@ -25,6 +25,7 @@ class Square extends Shape
         System.out.println("Please enter the length of the square: ");
         length = scan.nextFloat();
     }
+    
     public void compute()
     {
         area = length * length;
