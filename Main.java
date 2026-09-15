@@ -12,12 +12,11 @@ abstract class Shape
     {
         System.out.println("The area of the shape is: " + area);
     }
-    
+
 }
 
 class Square extends Shape
 {
-    
     float length;
 
     public void acceptInput()
