@@ -35,7 +35,6 @@ public class JaggedArray2 {
                 }
             }
         }
-
         for (int i = 0; i < schools; i++) {
             for (int j = 0; j < a[i].length; j++) {
                 for (int k = 0; k < a[i][j].length; k++) {
