@@ -11,7 +11,6 @@ public class Changing_toString
 {
     public static void main(String[] args)
     {
-
         One object = new One();
         System.out.println(object);
      
