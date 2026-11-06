@@ -13,7 +13,6 @@ public class Changing_toString
     {
 
         One object = new One();
-
         System.out.println(object);
      
     }
