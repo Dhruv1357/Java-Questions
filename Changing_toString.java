@@ -6,7 +6,6 @@ class One
     }
 
 }
-
 public class Changing_toString
 {
     public static void main(String[] args)
