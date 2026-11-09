@@ -37,6 +37,5 @@ public class Testingg
 
         System.out.println("The marks of the students are: " + marks[0] + " " + marks[1] + " " + marks[2] + " "
                 + marks[3] + " " + marks[4]);
-
     }
 }
