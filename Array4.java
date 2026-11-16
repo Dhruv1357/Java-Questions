@@ -16,6 +16,7 @@ public class Array4 {
         int[][][][] a = new int[cities][schools][classrooms][students];
 
         System.out.println("Enter the marks of the students:");
+
         Scanner scan2 = new Scanner(System.in);
 
         for (int i = 0; i < cities; i++) {
