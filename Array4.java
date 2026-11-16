@@ -28,7 +28,6 @@ public class Array4 {
                 }
             }
         }
-
         for (int i = 0; i < cities; i++) {
             for (int j = 0; j < schools; j++) {
                 for (int k = 0; k < classrooms; k++) {
