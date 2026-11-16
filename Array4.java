@@ -33,6 +33,7 @@ public class Array4 {
                 for (int k = 0; k < classrooms; k++) {
                     for (int l = 0; l < students; l++) {
                         System.out.println("The marks of student " + (l + 1) + " of classroom " + (k + 1) + " of school " + (j + 1) + " of city " + (i + 1) + ": " + a[i][j][k][l]);
+
                     }
                 }
             }
