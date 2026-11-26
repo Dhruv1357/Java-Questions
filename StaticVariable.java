@@ -3,6 +3,7 @@ class Static
     static int value = 10;
     int a;
 }
+
 public class StaticVariable 
 {
     public static void main(String[] args)
