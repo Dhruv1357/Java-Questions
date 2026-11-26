@@ -14,6 +14,7 @@ public class StaticVariable
         s1.value = 5;
 
         s1.a = 2;
+
         s2.a = 4;
 
         System.out.println(s2.value);
