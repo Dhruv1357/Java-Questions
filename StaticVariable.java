@@ -12,7 +12,6 @@ public class StaticVariable
         Static s2 = new Static();
 
         s1.value = 5;
-
         s1.a = 2;
 
         s2.a = 4;
