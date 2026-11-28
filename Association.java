@@ -5,7 +5,6 @@ class Student
     private Branch branch;
 
     public Student(Integer sId,String sName,Branch branch)
-
     {
         this.sId = sId;
         this.sName = sName;
